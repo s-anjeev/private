@@ -1,0 +1,146 @@
+2024-09-17 06:38:52 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-17 06:38:52 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-17 06:38:52 - INFO -  * Restarting with stat
+2024-09-17 06:38:52 - WARNING -  * Debugger is active!
+2024-09-17 06:38:52 - INFO -  * Debugger PIN: 792-721-392
+2024-09-17 06:39:07 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 06:39:07 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 06:39:07 - INFO - 127.0.0.1 - - [17/Sep/2024 06:39:07] "POST /api/login HTTP/1.1" 200 -
+2024-09-17 06:42:48 - INFO -  * Detected change in 'e:\\code\\python\\flaskapi\\models\\login.py', reloading
+2024-09-17 06:42:48 - INFO -  * Restarting with stat
+2024-09-17 06:46:14 - INFO -  * Restarting with stat
+2024-09-17 06:49:52 - INFO -  * Restarting with stat
+2024-09-17 06:51:01 - INFO -  * Restarting with stat
+2024-09-17 06:51:17 - INFO -  * Restarting with stat
+2024-09-17 06:56:12 - INFO -  * Restarting with stat
+2024-09-17 06:56:33 - INFO -  * Restarting with stat
+2024-09-17 06:56:52,876 - INFO - Login attempt for user: admingmail.com
+2024-09-17 06:56:52,876 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 06:58:36,459 - INFO - Login attempt for user: admin(gmail.com
+2024-09-17 06:58:36,459 - INFO - Failed login attempt for user: admin(gmail.com
+2024-09-17 07:03:32,675 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:03:32,725 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:08:20 - INFO -  * Restarting with stat
+2024-09-17 07:08:39 - INFO -  * Restarting with stat
+2024-09-17 07:08:48 - INFO -  * Restarting with stat
+2024-09-17 07:09:36,990 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:09:36,990 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:10:44 - INFO -  * Restarting with stat
+2024-09-17 07:14:46 - INFO -  * Restarting with stat
+2024-09-17 07:15:26 - INFO -  * Restarting with stat
+2024-09-17 07:15:56 - INFO -  * Restarting with stat
+2024-09-17 07:16:43 - INFO -  * Restarting with stat
+2024-09-17 07:17:23 - INFO -  * Restarting with stat
+2024-09-17 07:19:05 - INFO -  * Restarting with stat
+2024-09-17 07:19:58,547 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:19:58,547 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:20:00,318 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:20:00,318 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:20:01,722 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:20:01,722 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:20:03,137 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:20:03,137 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:20:04,536 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:20:04,536 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:20:05,884 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:20:05,884 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:20:07,300 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:20:07,300 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:20:08,448 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:20:08,448 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:20:09,649 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:20:09,649 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:20:10,828 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:20:10,830 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:20:40,875 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:20:40,875 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:20:42,167 - INFO - Login attempt for user: admingmail.com
+2024-09-17 07:20:42,167 - INFO - Failed login attempt for user: admingmail.com
+2024-09-17 07:20:50,924 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:20:50,924 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:20:52,389 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:20:52,407 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:20:53,789 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:20:53,789 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:20:54,988 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:20:54,988 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:20:56,286 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:20:56,286 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:20:57,485 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:20:57,485 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:20:58,801 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:20:58,801 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:21:00,217 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:21:00,217 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:23:07 - INFO -  * Restarting with stat
+2024-09-17 07:23:16,202 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:23:16,202 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:23:17,716 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:23:17,733 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:23:19,082 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:23:19,116 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:23:20,430 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:23:20,430 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:23:21,845 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:23:21,845 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:23:23,161 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:23:23,161 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:23:24,776 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:23:24,776 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:23:26,119 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:23:26,166 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:25:03 - INFO -  * Restarting with stat
+2024-09-17 07:25:09,659 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:25:09,659 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:25:10,860 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:25:10,860 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:25:12,139 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:25:12,139 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:25:13,388 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:25:13,388 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:25:14,604 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:25:14,621 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:25:15,750 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:25:15,750 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:25:17,069 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:25:17,069 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:25:18,217 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:25:18,217 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:26:37 - INFO -  * Restarting with stat
+2024-09-17 07:27:15 - INFO -  * Restarting with stat
+2024-09-17 07:27:21 - INFO -  * Restarting with stat
+2024-09-17 07:27:56,183 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:27:56,183 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:27:57,414 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:27:57,414 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:27:58,731 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:27:58,731 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:28:00,144 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:28:00,144 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:28:01,410 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:28:01,410 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:28:02,592 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:28:02,592 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:28:03,712 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:28:03,712 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:35:32 - INFO -  * Restarting with stat
+2024-09-17 07:36:24 - INFO -  * Restarting with stat
+2024-09-17 07:45:33,870 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:45:33,870 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 07:45:36,764 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 07:45:36,764 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 08:08:53,715 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 08:08:53,715 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 08:09:17,262 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 08:09:17,262 - INFO - Login successful for user: admin@gmail.com
+2024-09-17 08:09:19,707 - INFO - Login attempt for user: admin@gmail.com
+2024-09-17 08:09:19,707 - INFO - Login successful for user: admin@gmail.com
+2024-09-18 07:29:56,662 - INFO - Login attempt for user: admin@gmail.com
+2024-09-18 07:29:56,771 - INFO - Login successful for user: admin@gmail.com
+2024-09-20 07:10:25,589 - INFO - Login attempt for user: admin@gmail.com
+2024-09-20 07:10:25,761 - INFO - Login successful for user: admin@gmail.com
+2024-09-20 07:13:07,055 - INFO - Login attempt for user: admin@gmail.com
+2024-09-20 07:13:07,055 - INFO - Login successful for user: admin@gmail.com
+2024-09-20 07:33:17,026 - INFO - Login attempt for user: admin@gmail.com
+2024-09-20 07:33:17,065 - INFO - Login successful for user: admin@gmail.com

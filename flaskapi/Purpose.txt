@@ -1,0 +1,57 @@
+-> API URPOSE AND SCOPE
+Purpose of this api is to access remote server (EC2) from web interface, with the use of this api user can control its 
+remote server from web interface. this api can perform all types of task on server. Using this user does not need to login
+using SSH.
+
+Type of api will be REST API.
+This api will use API KEY to authenticate user, and user can obtain this API KEY by logging in, there will be only one user
+ADMIN.
+
+
+->DESIGN DOCUMENTATION
+First version of api will be v1.
+API endpoints:-
+/api/login -> to login and obtainapi key.
+/api/dashboard -> users dashboard displaying all details about machine.
+/api/key -> pass api key to user.
+/api/logout -> to terminate current session.
+/api/terminal -> to execute all types of commands on operating system.
+/api/download -> to download file from server.
+/api/upload  -> to upload file on server.
+
+For documentation Postman tool will be used.
+
+-> DATABASE 
+using mysql database
+
+-> SECURITY
+User authentication - JWT, API key
+User authorization - RBAC
+To prevent abuse inplement RATE LIMIT.
+Enforce HTTPS for secure communication.
+Validate and sanitize all inputs to prevent common attacks like SQL injection or cross-site scripting (XSS) and OS 
+Command injection.
+Configure Cross-Origin Resource Sharing (CORS) correctly to prevent unauthorized use.
+
+
+-> PERFORMANCE AND OPTIMIZATION
+Pagination: Use pagination for endpoints that return large sets of data.
+Caching: Implement caching mechanisms (e.g., Redis, HTTP headers) for frequently accessed data.
+Database optimization: Ensure your database queries are optimized to reduce latency.
+Concurrency handling: Design your API to handle concurrent requests properly (e.g., with queuing or rate-limiting).
+
+-> ERROR HANDLING 
+Provide meaningful error responses (e.g., 404 for not found, 500 for server errors).
+Ensure consistent error formats across all endpoints.
+
+-> TESTING
+Unit testing 
+Integration testing 
+Load testing
+
+-> LOGGING AND MONITORING
+Track API usage.
+Set up tools to monitor the API'S health and performance (Prometheus, Grafana).
+Implement alert systems to notify you when there’s an issue, like downtime or security breaches.
+Implement logging to keep record of events accured.
+
